@@ -1,1 +1,1 @@
-##This is a chat application.
+This is a chat application.

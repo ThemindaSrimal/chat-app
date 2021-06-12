@@ -1,1 +1,1 @@
-Live app = https://tschatapp.netlify.app/
+Chat application

@@ -2,6 +2,6 @@
 
 #### Live site = https://tschatapp.netlify.app/
 
-#### Testing Login
+#### Test Login
 #### username: TestUser
 #### password: test
